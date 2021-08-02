@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lsevcik
+- 👀 I’m interested in learning systems programming
+- 🌱 I’m currently studying Computer Science at Saddleback College
+- 💞️ I’m looking to collaborate on any Linux related projects
+- 📫 [Email me](mailto:logan@sevcik.email)
