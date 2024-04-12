@@ -1,0 +1,14 @@
+<!DOCTYPE svg>
+<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		text {
+		font-size: 15px;
+		font-weight: 700;
+		font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+		}
+	</style>
+	<path id="right_line" d="M 0 0 L 0 30 Q 100 50 200 40 L 200 0 Z" fill="#0032A0" fill-opacity="90%"/>
+	<path id="left_line" d="M 0 0 L 0 40 Q 100 50 200 30 L 200 0 Z" fill="#D00070" fill-opacity="90%"/>
+	<path id="mid_line" d="M 0 0 L 0 30 Q 100 55 200 30 L 200 0 Z" fill="#8C4799" fill-opacity="90%"/>
+	<text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" fill="white">Welcome to my GitHub!</text>
+</svg>
